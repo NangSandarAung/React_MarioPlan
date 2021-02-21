@@ -1,5 +1,5 @@
 import React from 'react';
-import { connect } from 'react-redux';
+import { connect } from 'react-redux';  //for connrcting to firestore
 import { firestoreConnect } from 'react-redux-firebase';
 import { compose } from 'redux';
 
